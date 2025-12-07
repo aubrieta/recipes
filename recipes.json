@@ -73,86 +73,15 @@
             "note": "optional"
           }
         ]
-      },
-      {
-        "label": "breading",
-        "items": [
-          {
-            "quantity": "2 heaping cups",
-            "name": "all-purpose flour"
-          },
-          {
-            "quantity": "1 tbsp",
-            "name": "baking powder"
-          }
-        ]
-      },
-      {
-        "label": "spice mix",
-        "items": [
-          {
-            "quantity": "1 tbsp",
-            "name": "paprika",
-            "note": "or to taste"
-          },
-          {
-            "quantity": "1 tbsp",
-            "name": "cayenne",
-            "note": "or to taste"
-          },
-          {
-            "quantity": "1 tsp",
-            "name": "salt"
-          },
-          {
-            "quantity": "1 tbsp",
-            "name": "garlic powder"
-          },
-          {
-            "quantity": "1 tbsp",
-            "name": "onion powder"
-          },
-          {
-            "quantity": "1 tsp",
-            "name": "oregano"
-          },
-          {
-            "quantity": "1 tsp",
-            "name": "basil"
-          },
-          {
-            "quantity": "1 tbsp",
-            "name": "berbere"
-          }
-        ]
-      },
-      {
-        "label": "glaze",
-        "items": [
-          {
-            "quantity": "1/2 cup",
-            "name": "honey"
-          },
-          {
-            "quantity": "2/3 cup",
-            "name": "sriracha",
-            "note": "or to taste"
-          },
-          {
-            "quantity": "1 tsp",
-            "name": "salt",
-            "note": "or to taste"
-          }
-        ]
       }
     ],
     "steps": [
       "Heat four tablespoons of [olive oil] in a pot on low heat.",
       "Slice the [carrots] and [celery] to desired thickness. Dice the [onion].",
-      "Sweat the mirepoix \\:\\ place the [carrots], [celery], and [onion] in the pot and cook for about 5 minutes.",
+      "Sweat the mirepoix. place the [carrots], [celery], and [onion] in the pot and cook for about 5 minutes.",
       "Remove the leaves from the [thyme stalk] and add to the pot. Cook another 5 minutes or until everything starts to soften.",
       "Add the [chicken stock], [salt], and [pepper] to the pot. Bring to a boil.",
-      "If desired, make beurre manié \\:\\ combine the flour and the butter until a smooth paste forms. Stir the paste into the pot.",
+      "If desired, make beurre manié. Combine the flour and the butter until a smooth paste forms. Stir the paste into the pot.",
       "Add the chicken breasts to the pot. Pour two tablespoons of oil in a pan on medium heat.",
       "When the chicken breasts are almost cooked through, remove them from the pot and add them to the pan. Let them brown, flip, and let them brown again. Pull them apart with a fork.",
       "Add the pasta pulled chicken breasts to the pot. Cook 8 minutes or until pasta is al dente.",
