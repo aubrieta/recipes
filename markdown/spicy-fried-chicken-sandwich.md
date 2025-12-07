@@ -77,7 +77,7 @@ steps:
   - Combine [paprika], [cayenne], [salt], [garlic powder], [onion powder], [oregano], [basil], and [berbere] to form the spice mix. Save 2 tbsp and set aside for the glaze.
   - Combine [all-purpose flour] and [baking powder] for the breading. Stir the unsaved spice mix in. 
   - Combine [honey], [sriracha], and [salt] for the glaze.
-  - Pour enough [olive oil] in a Dutch oven or pan until it is more deep than the tenders are thick.   
+  - Pour enough [olive oil] in a Dutch oven or pan until it is half as deep than the tenders are thick.   
   - Dredge the marinated tenders in the breading. Working 3–4 pieces at a time, cook on each side until golden brown. 
   - Line the cooked tenders on a wire rack so that the excess oil can drip. 
   - Stir 1/3 cup of the leftover cooking oil and the saved spice mix into the glaze. 

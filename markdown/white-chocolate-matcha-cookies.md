@@ -30,13 +30,13 @@ ingredientGroups:
         note: or to taste
 
 steps:
-  - Heat [butter] on stove until it darkens. Let cool. 
+  - Heat [butter] on stove until it browns. Let cool. 
   - Mix [all-purpose flour], [baking soda], and [matcha powder]. 
   - Roughly chop the [white chocolate bar] and set aside. 
   - Add [table sugar] and [light brown sugar] to the butter. Mix in [eggs] and [vanilla extract]. 
   - Add dry mixture to wet mixture until a dough forms.
   - Fold in the white chocolate. 
-  - Cover with plastic wrap and let rest for one hour in the fridge. 
+  - Wrap and let rest for at least one hour in the fridge, or half an hour in the freezer. 
   - Preheat 350F and line two cookie sheets with parchment paper. 
   - Portion dough into handful-sized scoops and place on sheets. 
   - Bake for 11 minutes and let cool completely before serving.
