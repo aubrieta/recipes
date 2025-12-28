@@ -41,3 +41,4 @@ steps:
   - Portion dough into handful-sized scoops and place on sheets. 
   - Bake for 11 minutes and let cool completely before serving.
 ---
+This recipe yields about 20 cookies, so give them out to other people! As one of my recievers said, "the main ingredient is butter as God intended." To properly consecrate the butter, cook it until brown to make a beurre noisette. Take it off the stove when it starts to smell nutty and little solids appear at the bottom of the pan. That nuttiness will enhance the flavor of the matcha. 

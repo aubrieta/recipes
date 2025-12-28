@@ -24,38 +24,38 @@ function route() {
 }
 
 function renderRecipeList() {
-    const container = document.getElementById('recipes-container');
-    container.innerHTML = '<h1>recipes</h1>';
-  
-    // Group recipes by category
-    const categories = {};
-    allRecipes.forEach(recipe => {
-      const category = recipe.category || 'uncategorized';
-      if (!categories[category]) {
-        categories[category] = [];
-      }
-      categories[category].push(recipe);
-    });
-  
-    // Render each category section
-    Object.entries(categories).forEach(([category, recipes]) => {
-      const sectionTitle = document.createElement('h2');
-      sectionTitle.textContent = category;
-      sectionTitle.style.marginTop = '2rem';
-      container.appendChild(sectionTitle);
-  
-      const list = document.createElement('ul');
-      list.style.listStyle = 'none';
-      list.style.paddingLeft = '0';
-  
-      recipes.forEach(recipe => {
-        const item = document.createElement('li');
-        item.style.display = 'flex';
-        item.style.alignItems = 'center';
-        item.style.gap = '0.5rem';
-        item.style.marginBottom = '0.5rem';
+  const container = document.getElementById('recipes-container');
+  container.innerHTML = '<h1>recipes</h1>';
 
-        if (recipe.subcategory) {
+  // Group recipes by category
+  const categories = {};
+  allRecipes.forEach(recipe => {
+    const category = recipe.category || 'uncategorized';
+    if (!categories[category]) {
+      categories[category] = [];
+    }
+    categories[category].push(recipe);
+  });
+
+  // Render each category section
+  Object.entries(categories).forEach(([category, recipes]) => {
+    const sectionTitle = document.createElement('h2');
+    sectionTitle.textContent = category;
+    sectionTitle.style.marginTop = '2rem';
+    container.appendChild(sectionTitle);
+
+    const list = document.createElement('ul');
+    list.style.listStyle = 'none';
+    list.style.paddingLeft = '0';
+
+    recipes.forEach(recipe => {
+      const item = document.createElement('li');
+      item.style.display = 'flex';
+      item.style.alignItems = 'center';
+      item.style.gap = '0.5rem';
+      item.style.marginBottom = '0.5rem';
+
+      if (recipe.subcategory) {
         const tag = document.createElement('span');
         tag.textContent = recipe.subcategory;
         tag.style.padding = '2px 8px';
@@ -66,22 +66,21 @@ function renderRecipeList() {
         tag.style.fontStyle = 'normal';
         tag.style.flexShrink = '0';
         item.appendChild(tag);
-        }
+      }
 
-        const link = document.createElement('a');
-        link.href = `#${slugify(recipe.title)}`;
-        link.textContent = recipe.title;
-        link.style.fontSize = '1rem';
-        link.style.display = 'inline-block';
+      const link = document.createElement('a');
+      link.href = `#${slugify(recipe.title)}`;
+      link.textContent = recipe.title;
+      link.style.fontSize = '1rem';
+      link.style.display = 'inline-block';
 
-        item.appendChild(link);
-        list.appendChild(item);
-      });
-  
-      container.appendChild(list);
+      item.appendChild(link);
+      list.appendChild(item);
     });
+
+    container.appendChild(list);
+  });
 }
-  
 
 function renderRecipe(recipe) {
   const container = document.getElementById('recipes-container');
@@ -150,11 +149,25 @@ function renderRecipe(recipe) {
     instructionsCol.appendChild(p);
   }
 
-  // Assemble
+  // Assemble grid
   grid.appendChild(ingredientsCol);
   grid.appendChild(instructionsCol);
+
+  // ✅ Append title first
   card.appendChild(title);
+
+  // ✅ Then intro under title
+  if (recipe.intro && recipe.intro.trim()) {
+    const intro = document.createElement('p');
+    intro.className = 'recipe-intro';
+    intro.textContent = recipe.intro.trim();
+    card.appendChild(intro);
+  }
+
+  // ✅ Then grid
   card.appendChild(grid);
+
+  // Add to page
   container.appendChild(card);
 }
 

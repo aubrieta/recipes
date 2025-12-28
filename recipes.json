@@ -1,97 +1,9 @@
 [
   {
-    "title": "chicken noodle soup",
-    "category": "entree",
-    "subcategory": "soup",
-    "ingredientGroups": [
-      {
-        "label": "mirepoix",
-        "items": [
-          {
-            "quantity": "1 or 2",
-            "name": "carrots"
-          },
-          {
-            "quantity": 1,
-            "name": "onion",
-            "note": "preferably yellow"
-          },
-          {
-            "quantity": "2 or 3 stalks",
-            "name": "celery",
-            "note": "or to taste"
-          },
-          {
-            "quantity": "3 or 4",
-            "name": "thyme stems",
-            "note": "or to taste"
-          },
-          {
-            "quantity": "4 tbsp",
-            "name": "olive oil",
-            "note": "or as needed"
-          }
-        ]
-      },
-      {
-        "label": "soup",
-        "items": [
-          {
-            "quantity": "8 cups",
-            "name": "chicken stock"
-          },
-          {
-            "quantity": "lots of",
-            "name": "salt",
-            "note": "to taste"
-          },
-          {
-            "quantity": "lots of",
-            "name": "pepper",
-            "note": "to taste"
-          },
-          {
-            "quantity": "2 or 3",
-            "name": "chicken breasts"
-          },
-          {
-            "quantity": "2 tbsp",
-            "name": "olive oil"
-          },
-          {
-            "quantity": "2 to 3 cups pasta",
-            "name": "of choice"
-          },
-          {
-            "quantity": "2 tbsp",
-            "name": "butter",
-            "note": "optional"
-          },
-          {
-            "quantity": "2 tbsp",
-            "name": "flour",
-            "note": "optional"
-          }
-        ]
-      }
-    ],
-    "steps": [
-      "Heat four tablespoons of [olive oil] in a pot on low heat.",
-      "Slice the [carrots] and [celery] to desired thickness. Dice the [onion].",
-      "Place the [carrots], [celery], and [onion] in the pot and cook for about 5 minutes.",
-      "Remove the leaves from the [thyme stems] and add to the pot. Cook another 5 minutes or until everything starts to soften.",
-      "Add the [chicken stock], [salt], and [pepper] to the pot. Bring to a boil.",
-      "(Optional) Combine the [flour] and the [butter] until a smooth paste forms. Stir the paste into the pot.",
-      "Add the [chicken breasts] to the pot. Pour two tablespoons of [olive oil] in a pan on medium heat.",
-      "When the [chicken breasts] are almost cooked through, remove them from the pot and add them to the pan. Let them brown, flip, and let them brown again. Pull them apart with two forks and make sure they are cooked through.",
-      "Add the [pasta] and pulled [chicken breasts] to the pot. Cook eight minutes or until [pasta] is al dente.",
-      "Serve warm."
-    ]
-  },
-  {
-    "title": "spicy fried chicken sandwich",
-    "category": "entree",
-    "subcategory": "sandwich",
+    "title": "berbere fried chicken",
+    "category": "main",
+    "subcategory": "chicken",
+    "intro": "Want salt and pepper on the table? Nah, at Ethiopian restaurants you'll find berbere and mitmita. All that incedible peppery acidity is from a spice called berbere. I supply my berbere from the Brundo Spice Comany at Café Colucci. It goes on everything, and it shines with chicken. I like to serve berbere fried chicken with ciabatta, lettuce, and manchego as a saucy sandwich. It drips everywhere.",
     "ingredientGroups": [
       {
         "label": null,
@@ -109,26 +21,6 @@
           {
             "quantity": "3 tbsp",
             "name": "salt"
-          },
-          {
-            "quantity": "6 slices",
-            "name": "bread",
-            "note": "ciabatta"
-          },
-          {
-            "quantity": "handful",
-            "name": "lettuce",
-            "note": "butter lettuce"
-          },
-          {
-            "quantity": "1/2",
-            "name": "onion",
-            "note": "white"
-          },
-          {
-            "quantity": "1/2 cup",
-            "name": "cheese",
-            "note": "Manchego"
           }
         ]
       },
@@ -230,17 +122,183 @@
       "Combine [all-purpose flour] and [baking powder] for the breading. Stir the unsaved spice mix in.",
       "Combine [honey], [sriracha], and [salt] for the glaze.",
       "Pour enough [olive oil] in a Dutch oven or pan until it is half as deep than the tenders are thick.",
-      "Dredge the marinated tenders in the breading. Working 3–4 pieces at a time, cook on each side until golden brown.",
+      "Dredge the marinated tenders in the breading. Working 3 or 4 pieces at a time, cook on each side until golden brown.",
       "Line the cooked tenders on a wire rack so that the excess oil can drip.",
       "Stir 1/3 cup of the leftover cooking oil and the saved spice mix into the glaze.",
-      "If needed, empty the pan and pour in a thin layer of new oil. Toast the bread.",
-      "Assemble sandwiches with [bread], [lettuce], julienned [onion], [cheese], and fried chicken dipped in the glaze."
+      "Dip chicken into glaze and serve!"
+    ]
+  },
+  {
+    "title": "chicken noodle soup",
+    "category": "main",
+    "subcategory": "soup",
+    "intro": "Chicken noodle soup is my favorite sick meal. It's cozy enough to make for other people, but also easy enough to make for yourself when you're under the weather. My version of mirepoix always includes a hint of fresh thyme. Soften the veggies in butter if you wish (probably more traditional). As for me, I'm always more likely to have olive oil on hand.",
+    "ingredientGroups": [
+      {
+        "label": "mirepoix",
+        "items": [
+          {
+            "quantity": "1 or 2",
+            "name": "carrots"
+          },
+          {
+            "quantity": 1,
+            "name": "onion",
+            "note": "preferably yellow"
+          },
+          {
+            "quantity": "2 or 3 stalks",
+            "name": "celery",
+            "note": "or to taste"
+          },
+          {
+            "quantity": "3 or 4",
+            "name": "thyme stems",
+            "note": "or to taste"
+          },
+          {
+            "quantity": "4 tbsp",
+            "name": "olive oil",
+            "note": "or as needed"
+          }
+        ]
+      },
+      {
+        "label": "soup",
+        "items": [
+          {
+            "quantity": "8 cups",
+            "name": "chicken stock"
+          },
+          {
+            "quantity": "lots of",
+            "name": "salt",
+            "note": "to taste"
+          },
+          {
+            "quantity": "lots of",
+            "name": "pepper",
+            "note": "to taste"
+          },
+          {
+            "quantity": "2 or 3",
+            "name": "chicken breasts"
+          },
+          {
+            "quantity": "2 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "quantity": "2 to 3 cups",
+            "name": "pasta",
+            "note": "of choice"
+          },
+          {
+            "quantity": "2 tbsp",
+            "name": "butter",
+            "note": "optional"
+          },
+          {
+            "quantity": "2 tbsp",
+            "name": "flour",
+            "note": "optional"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Heat four tablespoons of [olive oil] in a pot on low heat.",
+      "Slice the [carrots] and [celery] to desired thickness. Dice the [onion].",
+      "Place the [carrots], [celery], and [onion] in the pot and cook for about 5 minutes.",
+      "Remove the leaves from the [thyme stems] and add to the pot. Cook another 5 minutes or until everything starts to soften.",
+      "Add the [chicken stock], [salt], and [pepper] to the pot. Bring to a boil.",
+      "(Optional) Combine the [flour] and the [butter] until a smooth paste forms. Stir the paste into the pot.",
+      "Add the [chicken breasts] to the pot. Pour two tablespoons of [olive oil] in a pan on medium heat.",
+      "When the [chicken breasts] are almost cooked through, remove them from the pot and add them to the pan. Let them brown, flip, and let them brown again. Pull them apart with two forks and make sure they are cooked through.",
+      "Add the [pasta] and pulled [chicken breasts] to the pot. Cook eight minutes or until [pasta] is al dente. Serve warm."
+    ]
+  },
+  {
+    "title": "fresh pasta",
+    "category": "accompaniment",
+    "subcategory": "doughy",
+    "intro": "I like to mix everything in a bowl instead of straight on a cutting board. I find that it makes kneading a lot easier (and it also makes your work station a little bit portable). Once you do move to the cutting board, be very liberal with your flour. Ever so slightly dampening the cutting board helps the flour stick a bit more uniformly. When enough raw dough is exposed, add more flour. Otherwise, you'll be stuck separating out strands when you should instead be slurping up a fresh bowl of pasta.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "quantity": "2 cups",
+            "name": "all-purpose flour"
+          },
+          {
+            "quantity": 3,
+            "name": "eggs",
+            "note": "large"
+          },
+          {
+            "quantity": "1 tbsp",
+            "name": "olive oil"
+          },
+          {
+            "quantity": "2 tsp",
+            "name": "salt",
+            "note": "kosher"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Pour the [all-purpose flour] into a mixing bowl.",
+      "Press a measuring cup into the flour pile until a well forms.",
+      "Crack the [eggs] into the well. Add [olive oil] and [salt] on top.",
+      "With a fork, beat the contents of the well. Slowly mix in the surrounding flour until fully combined.",
+      "Knead the dough for about 5 minutes or until smooth.",
+      "Shape the dough into a round ball and cover with plastic wrap. Let rest at room temperature for 30 minutes.",
+      "Generously sprinkle flour over a cutting board. Unwrap the dough and cut it to the fourths. Roll each fourth out until it's thin, adding more flour as you go. When you think it's thin enough, roll it out even more.",
+      "Cut into any shape you desire. For pappardelle, fold along the short edge of the dough and cut into half-inch strips."
+    ]
+  },
+  {
+    "title": "neapolitan pizza dough",
+    "category": "accompaniment",
+    "subcategory": "doughy",
+    "intro": "This dough is enough for four little pizzas. It's really dry when you first mix it, but while it rests it moistens up. To shape the dough, cut it into fourths. Take each fourth and spread it very gently away from the center and towards the rim. It should be quite thin except at the rim. Keep the toppings light and sparing. I like a few spoons of tomato puree, mozzarella rounds, fresh basil, a drizzle of olive oil, and a sprinkle of salt.",
+    "ingredientGroups": [
+      {
+        "label": null,
+        "items": [
+          {
+            "quantity": "2 cups",
+            "name": "00 pizza flour"
+          },
+          {
+            "quantity": "1/8 tsp",
+            "name": "instant yeast"
+          },
+          {
+            "quantity": "2 tbsp",
+            "name": "salt"
+          },
+          {
+            "quantity": "3/4 cup",
+            "name": "water",
+            "note": "lukewarm, 105F ish"
+          }
+        ]
+      }
+    ],
+    "steps": [
+      "Mix [00 pizza flour], [instant yeast], [salt], and [water] in a large bowl.",
+      "Gently knead for 1 to 2 minutes until a rough dough forms.",
+      "Cover the bowl with a tea towel and let it rest for 12 to 24 hours."
     ]
   },
   {
     "title": "white chocolate matcha cookies",
     "category": "dessert",
     "subcategory": "cookies",
+    "intro": "This recipe yields about 20 cookies, so give them out to other people! As one of my recievers said, \"the main ingredient is butter as God intended.\" To properly consecrate the butter, cook it until brown to make a beurre noisette. Take it off the stove when it starts to smell nutty and little solids appear at the bottom of the pan. That nuttiness will enhance the flavor of the matcha.",
     "ingredientGroups": [
       {
         "label": null,

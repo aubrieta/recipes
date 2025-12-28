@@ -1,6 +1,5 @@
 ---
 title: chicken noodle soup
-category: entree
 subcategory: soup
 ingredientGroups:
   - label: mirepoix
@@ -33,8 +32,9 @@ ingredientGroups:
         name: chicken breasts 
       - quantity: 2 tbsp
         name: olive oil 
-      - quantity: 2 to 3 cups pasta
-        name: of choice 
+      - quantity: 2 to 3 cups
+        name: pasta
+        note: of choice
       - quantity: 2 tbsp
         name: butter
         note: optional
@@ -51,6 +51,6 @@ steps:
   - (Optional) Combine the [flour] and the [butter] until a smooth paste forms. Stir the paste into the pot. 
   - Add the [chicken breasts] to the pot. Pour two tablespoons of [olive oil] in a pan on medium heat. 
   - When the [chicken breasts] are almost cooked through, remove them from the pot and add them to the pan. Let them brown, flip, and let them brown again. Pull them apart with two forks and make sure they are cooked through. 
-  - Add the [pasta] and pulled [chicken breasts] to the pot. Cook eight minutes or until [pasta] is al dente.
-  - Serve warm.   
+  - Add the [pasta] and pulled [chicken breasts] to the pot. Cook eight minutes or until [pasta] is al dente. Serve warm.   
 ---
+Chicken noodle soup is my favorite sick meal. It's cozy enough to make for other people, but also easy enough to make for yourself when you're under the weather. My version of mirepoix always includes a hint of fresh thyme. Soften the veggies in butter if you wish (probably more traditional). As for me, I'm always more likely to have olive oil on hand.

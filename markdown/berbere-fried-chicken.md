@@ -1,7 +1,7 @@
 ---
-title: spicy fried chicken sandwich
-category: entree
-subcategory: sandwich
+title: berbere fried chicken
+category: main
+subcategory: chicken
 ingredientGroups:
   - label: 
     items:
@@ -13,18 +13,6 @@ ingredientGroups:
         note: for frying
       - quantity: 3 tbsp
         name: salt
-      - quantity: 6 slices
-        name: bread
-        note: ciabatta
-      - quantity: handful
-        name: lettuce
-        note: butter lettuce
-      - quantity: 1/2
-        name: onion
-        note: white
-      - quantity: 1/2 cup
-        name: cheese
-        note: Manchego
   - label: marinade
     items:
       - quantity: 1 cup
@@ -78,9 +66,10 @@ steps:
   - Combine [all-purpose flour] and [baking powder] for the breading. Stir the unsaved spice mix in. 
   - Combine [honey], [sriracha], and [salt] for the glaze.
   - Pour enough [olive oil] in a Dutch oven or pan until it is half as deep than the tenders are thick.   
-  - Dredge the marinated tenders in the breading. Working 3–4 pieces at a time, cook on each side until golden brown. 
+  - Dredge the marinated tenders in the breading. Working 3 or 4 pieces at a time, cook on each side until golden brown. 
   - Line the cooked tenders on a wire rack so that the excess oil can drip. 
   - Stir 1/3 cup of the leftover cooking oil and the saved spice mix into the glaze. 
-  - If needed, empty the pan and pour in a thin layer of new oil. Toast the bread. 
-  - Assemble sandwiches with [bread], [lettuce], julienned [onion], [cheese], and fried chicken dipped in the glaze.
+  - Dip chicken into glaze and serve!
 ---
+
+Want salt and pepper on the table? Nah, at Ethiopian restaurants you'll find berbere and mitmita. All that incedible peppery acidity is from a spice called berbere. I supply my berbere from the Brundo Spice Comany at Café Colucci. It goes on everything, and it shines with chicken. I like to serve berbere fried chicken with ciabatta, lettuce, and manchego as a saucy sandwich. It drips everywhere. 
