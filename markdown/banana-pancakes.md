@@ -27,7 +27,7 @@ steps:
   - Mash the [bananas].
   - Mix the [flour], [cinammon], and [baking powder]. 
   - In another bowl, whisk the [egg], [milk], and mashed [bananas].
-  - Add 1 tbsp [butter] to a pan and heat on medium. 
+  - Add 1 tsp [butter] to a pan and heat on medium. Add more as needed. 
   - Add the wet mixture to the dry mixture and mix until combined to form a batter. 
   - Pour a portion of the batter on the pan. Cook on one side until bubbles form on top. Flip, and then cook on the other for another few minutes. 
   - Continue iteratively until out of batter, adding more [butter] to the pan as needed. 
